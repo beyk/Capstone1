@@ -3,13 +3,13 @@ const speakers = [
       name: 'Chris Andreson',
       bio: 'Curator of TED',
       about: 'After a long career in journalism and publishing, Chris Anderson became the curator of the TED Conference in 2002 and has developed it as a platform for identifying and disseminating ideas worth spreading.',
-      picture: 'images/chris-anderson.jpg',
+      picture: 'assets/images/chris-anderson.jpg',
     },
     {
       name: 'Max Hawkins',
       bio: 'Artist and computer scientist',
       about: 'Since 2015, computer programs Max Hawkins wrote have been giving him randomly generated instructions on how to live his life.',
-      picture: 'images/max-hawkins.jpg',
+      picture: 'assets/images/max-hawkins.jpg',
     },
     {
       name: 'Anna Piperal',
@@ -21,19 +21,19 @@ const speakers = [
       name: 'Tom Griffhits',
       bio: 'Psychologist, cognitive scientist',
       about: 'Tom Griffiths uses ideas from computer science to understand how human minds work.',
-      picture: 'images/tom-griffiths.jpg',
+      picture: 'assets/images/tom-griffiths.jpg',
     },
     {
       name: 'Karen Tordjman',
       bio: 'Customer experience pro',
       about: 'Karen Lellouche Tordjman is a global leader on customer experience and a BHI fellow on the future of customer interactions.',
-      picture: 'images/karen-tordjman.jpg',
+      picture: 'assets/images/karen-tordjman.jpg',
     },
     {
       name: 'Yann LeCun',
       bio: 'Computer scientist, AI researcher',
       about: 'Yann LeCun is chief AI scientist at Facebook and Silver Professor at New York University.',
-      picture: 'images/yann-lecun.jpg',
+      picture: 'assets/images/yann-lecun.jpg',
     },
   ];
   //create new button
@@ -66,7 +66,7 @@ const speakers = [
       speaker.classList.add('my-speaker');
       speakerImg.classList.add('my-speaker-img');
       imageDots.classList.add('my-speaker-dots');
-      imageDots.setAttribute('src', 'images/image-dots.png');
+      imageDots.setAttribute('src', 'assets/images/image-dots.png');
       imageDots.setAttribute('alt', 'dots');
       speakerPicture.classList.add('my-speaker-picture');
       speakerPicture.setAttribute('src', speakers[i].picture);
@@ -104,7 +104,7 @@ const speakers = [
       speaker.classList.add('my-speaker');
       speakerImg.classList.add('my-speaker-img');
       imageDots.classList.add('my-speaker-dots');
-      imageDots.setAttribute('src', 'images/image-dots.png');
+      imageDots.setAttribute('src', 'assets/images/image-dots.png');
       imageDots.setAttribute('alt', 'dots');
       speakerPicture.classList.add('my-speaker-picture');
       speakerPicture.setAttribute('src', speakers[i].picture);
@@ -144,7 +144,7 @@ const speakers = [
       speaker.classList.add('my-speaker');
       speakerImg.classList.add('my-speaker-img');
       imageDots.classList.add('my-speaker-dots');
-      imageDots.setAttribute('src', 'images/image-dots.png');
+      imageDots.setAttribute('src', 'assets/images/image-dots.png');
       imageDots.setAttribute('alt', 'dots');
       speakerPicture.classList.add('my-speaker-picture');
       speakerPicture.setAttribute('src', speakers[i].picture);

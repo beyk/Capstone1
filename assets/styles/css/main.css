@@ -62,7 +62,7 @@ header {
   position: fixed;
   top: 0;
   bottom: 0;
-  background-image: url(/images/tehran-bg.jpg);
+  background-image: url(/assets/images/tehran-bg.jpg);
   background-size: cover;
 }
 
@@ -91,7 +91,7 @@ header {
 
 /* main section */
 .my-headline {
-  background-image: url(/images/tehran-bg.jpg);
+  background-image: url(/assets/images/tehran-bg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -111,7 +111,7 @@ header {
 }
 
 .my-headline-header-container {
-  background-image: url(/images/sao-paulo-city-background.jpg);
+  background-image: url(/assets/images/sao-paulo-city-background.jpg);
   background-repeat: no-repeat;
   background-position: center;
   color: transparent;
@@ -161,7 +161,7 @@ header {
 /* program section */
 
 .my-main-section {
-  background-image: url(/images/back-pattern-black.png);
+  background-image: url(/assets/images/back-pattern-black.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
