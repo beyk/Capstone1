@@ -1,10 +1,21 @@
-body {
-    background-color :blue;
-}
 header {
-    font-size: 2rem;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: 200;
-    font-style: normal;
-    color: rebeccapurple;
+    position: relative;
+    
+    background-image: url('/assets/images/header-sp-city-bp-background.jpg');
+    
+    height: 10vh;
+    z-index: 1;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+    
+    
+}
+.navbar-toggler {
+    position: relative;
+    z-index: 999;
+}
+main {
+  padding: 20px;
 }
