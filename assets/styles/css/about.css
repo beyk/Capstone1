@@ -234,6 +234,9 @@ body {
   margin-bottom: 50px;
 }
 
+.my-logo-box {
+  width: 30%;
+}
 .my-card-container {
   display: flex;
   flex-direction: column;

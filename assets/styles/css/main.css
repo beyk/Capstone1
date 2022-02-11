@@ -99,6 +99,7 @@ header {
 
 .my-headline-container {
   padding-top: 100px;
+  padding-left: 20px;
   padding-bottom: 54px;
   background-color: rgba(255, 255, 255, 0.9);
   
@@ -111,7 +112,7 @@ header {
 }
 
 .my-headline-header-container {
-  background-image: url(/assets/images/sao-paulo-city-background.jpg);
+  
   background-repeat: no-repeat;
   background-position: center;
   color: transparent;
@@ -129,10 +130,16 @@ header {
   font-size: 35px;
   line-height: 35px;
   color: #ec5242;
+  background-image: url('/assets/images/sao-paulo-city-background.jpg');
+  background-size: cover;
+    background-position: center;
+    -webkit-text-fill-color: transparent;
+    background-clip: inherit;
+    -webkit-background-clip: text;
 }
 
 .my-headline-description {
-  background-color: white;
+  background-color: #F7F7F7;
   max-width: 80%;
   margin-top: 40px;
   padding: 10px;
