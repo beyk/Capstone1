@@ -44,7 +44,6 @@
 
 .navbar-toggler .middle-bar {
   opacity: 0;
-  filter: alpha(opacity=0.0005);
 }
 
 .navbar-toggler .bottom-bar {
@@ -61,7 +60,6 @@
 
 .navbar-toggler.collapsed .middle-bar {
   opacity: 1;
-  filter: alpha(opacity=99);
 }
 
 .navbar-toggler.collapsed .bottom-bar {
