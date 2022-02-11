@@ -1,78 +1,75 @@
 .navbar-toggler {
-    width: 20px;
-    height: 20px;
-    position: relative;
-    transition: .5s ease-in-out;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  transition: 0.5s ease-in-out;
 }
 
 .navbar-toggler,
 .navbar-toggler:focus,
 .navbar-toggler:active,
 .navbar-toggler-icon:focus {
-    outline: none;
-    box-shadow: none;
-    border: 0;
+  outline: none;
+  box-shadow: none;
+  border: 0;
 }
 
 .navbar-toggler span {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .toggler-icon {
-    display: block;
-    position: absolute;
-    height: 3px;
-    width: 100%;
-    background: #000;
-    border-radius: 1px;
-    left: 0;
-    transform: rotate(0deg);
-    transition: .25s ease-in-out;
+  display: block;
+  position: absolute;
+  height: 3px;
+  width: 100%;
+  background: #000;
+  border-radius: 1px;
+  left: 0;
+  transform: rotate(0deg);
+  transition: 0.25s ease-in-out;
 }
 
 .middle-bar {
-    margin-top: 0px;
+  margin-top: 0;
 }
 
 /* when navigation is clicked */
 
 .navbar-toggler .top-bar {
-    margin-top: 0px;
-    transform: rotate(135deg);
+  margin-top: 0;
+  transform: rotate(135deg);
 }
 
 .navbar-toggler .middle-bar {
-    opacity: 0;
-    filter: alpha(opacity=0);
+  opacity: 0;
+  filter: alpha(opacity=0.0005);
 }
 
 .navbar-toggler .bottom-bar {
-    margin-top: 0px;
-    transform: rotate(-135deg);
+  margin-top: 0;
+  transform: rotate(-135deg);
 }
 
 /* State when the navbar is collapsed */
 
 .navbar-toggler.collapsed .top-bar {
-    margin-top: -20px;
-    transform: rotate(0deg);
+  margin-top: -20px;
+  transform: rotate(0deg);
 }
 
 .navbar-toggler.collapsed .middle-bar {
-    opacity: 1;
-    filter: alpha(opacity=100);
+  opacity: 1;
+  filter: alpha(opacity=99);
 }
 
 .navbar-toggler.collapsed .bottom-bar {
-    margin-top: 20px;
-    transform: rotate(0deg);
+  margin-top: 20px;
+  transform: rotate(0deg);
 }
 
-
-
 .collapse .navbar-nav {
-    position: absolute;
-    background-color: #F8F9FA;
-    
+  position: absolute;
+  background-color: #f8f9fa;
 }

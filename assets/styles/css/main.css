@@ -102,7 +102,6 @@ header {
   padding-left: 20px;
   padding-bottom: 54px;
   background-color: rgba(255, 255, 255, 0.9);
-  
 }
 
 .my-hello {
@@ -112,7 +111,6 @@ header {
 }
 
 .my-headline-header-container {
-  
   background-repeat: no-repeat;
   background-position: center;
   color: transparent;
@@ -132,14 +130,14 @@ header {
   color: #ec5242;
   background-image: url('/assets/images/sao-paulo-city-background.jpg');
   background-size: cover;
-    background-position: center;
-    -webkit-text-fill-color: transparent;
-    background-clip: inherit;
-    -webkit-background-clip: text;
+  background-position: center;
+  -webkit-text-fill-color: transparent;
+  background-clip: inherit;
+  -webkit-background-clip: text;
 }
 
 .my-headline-description {
-  background-color: #F7F7F7;
+  background-color: #f7f7f7;
   max-width: 80%;
   margin-top: 40px;
   padding: 10px;
@@ -159,6 +157,7 @@ header {
 .my-past-events {
   font-family: lato, sans-serif;
 }
+
 .my-headline-place {
   font-family: lato, sans-serif;
   font-size: 15px;
@@ -485,7 +484,6 @@ button:hover {
   }
 
   /* headline section */
- 
 
   .my-headline-header {
     font-size: 50px;

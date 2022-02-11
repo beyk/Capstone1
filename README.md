@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://beyk.github.io/codersconf/)
+[Live Demo Link](https://beyk.github.io/Capstone1/)
 
 ## Built With
 
@@ -22,9 +22,9 @@
 
 👤 **Beyk**
 
-- GitHub: [@mirouhml](https://github.com/beyk)
+- GitHub: [@Beyk](https://github.com/beyk)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/asghar-beykmohammadi-1b16b291/)
-- Twitter: [@kuronomirou](https://twitter.com/beyk_a)
+- Twitter: [@Beyk_a](https://twitter.com/beyk_a)
 
 ## Design 
 
