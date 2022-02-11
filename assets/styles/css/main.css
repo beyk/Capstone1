@@ -101,7 +101,7 @@ header {
   padding-top: 100px;
   padding-bottom: 54px;
   background-color: rgba(255, 255, 255, 0.9);
-  height: 70vh;
+  
 }
 
 .my-hello {
@@ -478,9 +478,7 @@ button:hover {
   }
 
   /* headline section */
-  .my-headline-container {
-    padding-left: 250px;
-  }
+ 
 
   .my-headline-header {
     font-size: 50px;

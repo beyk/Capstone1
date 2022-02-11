@@ -61,7 +61,7 @@ body {
   position: fixed;
   top: 0;
   bottom: 0;
-  background-image: url(/images/sao-paulo-city-background.jpg);
+  background-image: url(/assets/images/sao-paulo-city-background.jpg);
   background-size: cover;
 }
 
@@ -90,7 +90,7 @@ body {
 
 /* main section */
 .my-headline {
-  background-image: url(/images/sao-paulo-city-background.jpg);
+  background-image: url(/assets/images/sao-paulo-city-background.jpg);
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
@@ -245,7 +245,7 @@ body {
 .my-card-one {
   margin-top: 30px;
   margin-bottom: 50px;
-  background-image: url(/images/paste-event-1.jpg);
+  background-image: url(/assets/images/paste-event-1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 70%;
@@ -254,7 +254,7 @@ body {
 .my-card-two {
   margin-top: 30px;
   margin-bottom: 50px;
-  background-image: url(/images/paste-event-2.jpg);
+  background-image: url(/assets/images/paste-event-2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 70%;

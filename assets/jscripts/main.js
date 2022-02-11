@@ -15,7 +15,7 @@ const speakers = [
       name: 'Anna Piperal',
       bio: 'E-governance expert',
       about: 'Anna Piperal is a branding expert and digital enthusiast who strives to spread the idea of a "zero-bureaucracy" government ecosystem.',
-      picture: 'images/anna-piperal.jpg',
+      picture: 'assets/images/anna-piperal.jpg',
     },
     {
       name: 'Tom Griffhits',
