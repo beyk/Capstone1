@@ -25,12 +25,13 @@ header {
   background-color: #fff;
 }
 
-.small-hr{
+.small-hr {
   border-color: #ec5242;
   width: 35px;
   margin-top: 10px;
   margin-bottom: 30px;
 }
+
 .my-menu-btn {
   background: none;
   outline: none;
@@ -194,13 +195,6 @@ header {
   font-size: 20px;
   margin-top: 40px;
   color: #fff;
-}
-
-.my-main-section hr {
-  border-color: #ec5242;
-  width: 35px;
-  margin-top: 10px;
-  margin-bottom: 30px;
 }
 
 .my-main-program-act {
