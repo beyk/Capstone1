@@ -2,4 +2,13 @@
   .my-headline-container {
     padding-left: 200px;
   }
+  .navbar-btn {
+    display: none;
+  }
+
+  .my-main-program-act {
+    display: grid;
+    grid-template-rows: 30% 30% 40%;
+    grid-template-columns: 100%;
+  }
 }
