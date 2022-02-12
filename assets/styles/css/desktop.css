@@ -17,4 +17,8 @@
     left: -40px;
     top: 35px;
   }
+
+  .menu-last-item {
+    display: block;
+  }
 }

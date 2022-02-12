@@ -196,7 +196,9 @@ header {
   margin-top: 40px;
   color: #fff;
 }
-
+.navbar-btn:hover {
+  border: 3px solid red;
+}
 .my-main-program-act {
   display: grid;
   grid-template-columns: 20% 40% 40%;
@@ -207,6 +209,11 @@ header {
   width: 95%;
 }
 
+.menu-last-item {
+  display: none;
+  border: 3px solid #ec5242;
+  color: #ec5242;
+}
 .my-program-act {
   color: #ec5242;
   margin-right: 10px;
